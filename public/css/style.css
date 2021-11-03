@@ -1,0 +1,36 @@
+body {
+  max-width: 60%;
+  margin: 0 auto;
+  padding: 0 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: darkgreen;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+.main-content {
+  flex-grow: 1;
+}
+footer {
+  border-top: 2px solid grey;
+  margin-top: 20px;
+}
+h1 {
+  font-size: 65px;
+}
+header a {
+  text-decoration: none;
+  font-size: 20px;
+  margin-right: 20px;
+  color: #333333;
+}
+header {
+  margin-bottom: 5%;
+}
+p {
+  color: #000000;
+  font-size: 20px;
+}
+#text1 {
+  margin-top: 15%;
+}
